@@ -1,0 +1,23 @@
+{
+  "name": "de.lefx.jslibgen",
+  "version": "1.0.0",
+  "displayName": "JSLib Generator",
+  "description": "tool to automatically generate jslib bindings",
+  "unity": "2020.3",
+  "documentationUrl": "README.md",
+  "changelogUrl": "CHANGELOG.md",
+  "licensesUrl": "LICENSE",
+  "dependencies": {
+  },
+  "keywords": [
+    "library",
+    "jslib",
+    "javascript",
+    "codegen"
+  ],
+  "author": {
+    "name": "LeFx GmbH",
+    "email": "info@lefx.de",
+    "url": "https://www.lefx.de"
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "LEFX.JSLibGen.Editor",
+    "rootNamespace": "",
+    "references": [
+        "LEFX.JSLibGen"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
